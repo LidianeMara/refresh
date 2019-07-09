@@ -53,6 +53,13 @@ a:link{
 .patrocinadores{
     background-color: black;
     color: white;
+    padding: 75px;
+}
+
+
+.patrocinadores h3 
+{
+    font-size: 30px;
 }
 
 .patrocinadores .max{
