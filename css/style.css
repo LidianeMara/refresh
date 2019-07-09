@@ -21,9 +21,10 @@ a:link{
 }
 
 .principal{
-    background: url(../img/capa-sympla-v1.png) no-repeat;
+    background: url(../img/capa\ evento-01.png) no-repeat;
     width: 100%;
     background-size: cover;
+    
 }
 
 .titulo h1{
