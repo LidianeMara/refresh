@@ -5,12 +5,12 @@
 
 body{
     overflow-x: hidden;
-    font-family: "Helvetica";
+    font-family: "Arial";
 }
 
 nav {
-    display: flex-start;
     background-color: white;
+  
     
 }
 
@@ -19,7 +19,8 @@ a:link{
 }
 
 .logo img{
-    width: 150px;
+    width: 200px;
+    position: relative;
 
 }
 
