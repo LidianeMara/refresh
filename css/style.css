@@ -24,9 +24,9 @@ a:link{
 }
 
 .principal{
-    padding: 321px;
+    padding: 399px;
     background: url(../img/capa-sympla.png) no-repeat;
-    background-size:contain;
+    background-size:cover;
  
     
 }
