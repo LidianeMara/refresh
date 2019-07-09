@@ -9,6 +9,7 @@ body{
 }
 
 nav {
+    display: flex-start;
     background-color: white;
     
 }
@@ -22,7 +23,9 @@ a:link{
 }
 
 .principal{
-    background: url(../img/capa\ evento-01.png) no-repeat;
+    display: flex;
+    width: 100%;
+    background: url(../img/capa-sympla.png) no-repeat;
     width: 100%;
     background-size: cover;
     
@@ -82,7 +85,7 @@ a:link{
 }
 
 .speaker h5{
-	color: #00C766;
+    color: black;
 }
 
 .botao,
@@ -96,7 +99,7 @@ a:link{
 }
 
 .local{
-    background-color: #00C766;
+    background-color: #e0ece9;
     width: 100%;
 }
 
