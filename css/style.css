@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+    font-family: "Helvetica";
+}
+
+nav {
+    background-color: black;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.logo img{
+    width: 150px;
+}
+
+.principal{
+    background: url(../img/capa-sympla-v1.png) no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+
+.titulo h1{
+	margin-top: 150px;
+    font-size: 55px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+.titulo h2{
+    background-color: rgba(0, 0, 0, 0.8);
+    font-size: 27px;
+    color: white;
+}
+
+.titulo h3{
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 30px;
+    color: white;
+}
+
+.patrocinadores{
+    background-color: black;
+    color: white;
+}
+
+.patrocinadores .max{
+    width: 300px;	
+}
+
+.patrocinios img{
+    width: 200px;
+}
+
+.coldfox img{
+    width: 150px;
+}
+
+
+.sobre{
+    background-color: #303030;
+    color: white;
+    padding-bottom: 60px;
+}
+
+.speakers {
+	background-color: #f2f0f2;
+}
+.speaker img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+
+.speaker h5{
+	color: #00C766;
+}
+
+.botao,
+.botao2{
+    background-color: #e0ece9;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    border-color: #eae1e3;
+    box-shadow: 5px 5px 5px rgba(0,234, 22,0.4);
+}
+
+.local{
+    background-color: #00C766;
+    width: 100%;
+}
+
+.local h3{
+    font-size: 50px;
+}
+
+.local h5{
+    font-size: 26px;
+}
+
+.local p{
+    font-size: 20px;
+}
+
+.hashtag{
+    background-color: black;
+    color: white;
+}
+
+.hashtag hr {
+	background-color: white;
+}
+
+footer{
+    background-color: black;
+}
+
+.botao:hover {
+	background-color: #dcdcdc;
+    color: rgba(0,234, 22,0.4);
+    border-color: #56725e;
+}
+.botao2:hover {
+	background-color: white;
+    color:#009627;
+    border-color: #009627;
+}
