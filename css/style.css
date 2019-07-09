@@ -99,20 +99,23 @@ a:link{
 }
 
 .local{
-    background-color: #e0ece9;
+    background-color: #303030;
     width: 100%;
 }
 
 .local h3{
     font-size: 50px;
+    color: white;
 }
 
 .local h5{
     font-size: 26px;
+    color: white;
 }
 
 .local p{
     font-size: 20px;
+    color: white;
 }
 
 .hashtag{
