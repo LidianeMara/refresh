@@ -28,23 +28,26 @@ li {
     position: relative;
     font-size: 18px;
     display: inline;
+    height: auto;
   }
 
   a {
     display: inline;
     padding: 8px;
     color: #303030;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: white;
   }
 
 .principal{
     width: auto 1vw;
+    height: auto;
     padding: 310px 1vh;
     background: url(../img/banner-site.jpg) no-repeat;
     background-size:cover;  
 }
  
-.principal img {
-}
+
 
 .titulo h1{
 	margin-top: 150px;
