@@ -24,11 +24,13 @@ a:link{
 }
 
 .principal{
-    padding: 399px;
+    width: auto 1vw;
+    padding: 320px;
     background: url(../img/capa-sympla.png) no-repeat;
-    background-size:cover;
+    background-size:cover;  
+}
  
-    
+.principal img {
 }
 
 .titulo h1{
