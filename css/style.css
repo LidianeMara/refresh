@@ -22,6 +22,19 @@ a:link{
     width: 200px;
  
 }
+li {
+    font: 1em sans-serif;
+    text-align: center;
+    position: relative;
+    font-size: 18px;
+    display: inline;
+  }
+
+  a {
+    display: inline;
+    padding: 8px;
+    color: #303030;
+  }
 
 .principal{
     width: auto 1vw;
